@@ -176,6 +176,19 @@
       "uang": 10000,
       "lastclaim": 1738457388262,
       "lastrampok": 1738457388262
+    },
+    "6285374317911@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c8e7650f9f88935e4b76a66ee46dea42",
+      "nick": "NIFzz UZUMAKI 🔥",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738458989495,
+      "lastrampok": 1738458989495
     }
   },
   "chats": {
@@ -378,6 +391,24 @@
       "mute": false
     },
     "120363390325866488@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": true,
+      "mute": false
+    },
+    "120363388359496823@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
